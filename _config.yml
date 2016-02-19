@@ -1,29 +1,18 @@
-name: 4levels
-favicon: null
-layout_spectrum: 0.95316
-typography_spectrum: 0.3901557456701994
-title: 'Freelance IT allrounder, specialized in OpenSource'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#0d1836'
-    - '#91605c'
-    - '#bc9a91'
-    - '#6d9efd'
-    - '#e7d2b5'
+    - '#D0C0A0'
+    - '#000000'
+    - '#A07078'
+    - '#000000'
+    - '#F8D0D8'
   brandStrength: 0.4375
   lightness: 0.75
-  saturation: 0.3125
   rhythmicContrast: 0.25
+  saturation: 0.3125
+cta: {}
+layout_spectrum: 0.95316
+name: 4levels
+opengraph: {}
 purpose: []
+typography_spectrum: 0.096846
