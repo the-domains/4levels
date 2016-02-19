@@ -1,11 +1,11 @@
 analytics: {}
 color:
   brandColors:
-    - '#D0C0A0'
+    - '#C0C0D0'
+    - '#203965'
+    - '#5078A0'
+    - '#284880'
     - '#000000'
-    - '#A07078'
-    - '#000000'
-    - '#F8D0D8'
   brandStrength: 0.4375
   lightness: 0.75
   rhythmicContrast: 0.25
@@ -15,4 +15,4 @@ layout_spectrum: 0.95316
 name: 4levels
 opengraph: {}
 purpose: []
-typography_spectrum: 0.096846
+typography_spectrum: 0
